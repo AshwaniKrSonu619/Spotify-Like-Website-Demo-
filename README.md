@@ -1,3 +1,3 @@
 # Spotify-Like-Website-Demo-
 
-https://github.com/AshwaniKrSonu619/Spotify-Like-Website-Demo-
+https://ashwanikrsonu619.github.io/Spotify-Like-Website-Demo-/
